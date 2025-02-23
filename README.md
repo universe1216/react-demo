@@ -67,7 +67,7 @@ Follow these instructions to run the demo app locally
 
 ```sh
 $ git clone https://github.com/universe1216/react-demo
-$ cd todo-with-react
+$ cd react-demo
 ```
 
 Run the following command to generate your `.env` vars
