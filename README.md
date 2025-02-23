@@ -66,7 +66,7 @@ Use the following buttons to deploy to your favourite hosting provider in one cl
 Follow these instructions to run the demo app locally
 
 ```sh
-$ git clone https://github.com/appwrite/todo-with-react
+$ git clone https://github.com/universe1216/react-demo
 $ cd todo-with-react
 ```
 
